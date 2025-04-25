@@ -46,10 +46,7 @@ This project was built to:
 git clone https://github.com/yourusername/showcasing-inventors.git
 cd showcasing-inventors
 
-2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 # or
 yarn install
+
