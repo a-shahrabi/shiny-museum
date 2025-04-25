@@ -44,6 +44,7 @@ This project was built to:
 
 
 git clone https://github.com/yourusername/showcasing-inventors.git
+
 cd showcasing-inventors
 
 npm install
