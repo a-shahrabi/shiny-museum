@@ -42,7 +42,7 @@ This project was built to:
 
 ### 1. Clone the Repo
 
-```bash
+
 git clone https://github.com/yourusername/showcasing-inventors.git
 cd showcasing-inventors
 
