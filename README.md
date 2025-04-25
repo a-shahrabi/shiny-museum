@@ -44,5 +44,9 @@ This project was built to:
 
 ```bash
 git clone https://github.com/yourusername/showcasing-inventors.git
-cd showcasing-inventors
+cd showcasing-inventors```
 
+### 2. Install Dependencies
+npm install
+# or
+yarn install
