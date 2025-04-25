@@ -48,6 +48,7 @@ cd showcasing-inventors
 ```
 
 ### 2. Install Dependencies
+```bash
 npm install
 # or
 yarn install
