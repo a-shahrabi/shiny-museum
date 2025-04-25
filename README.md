@@ -37,3 +37,11 @@ This project was built to:
 | AI (optional)| OpenAI GPT / Custom Logic |
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/showcasing-inventors.git
+cd showcasing-inventors
