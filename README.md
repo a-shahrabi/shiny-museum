@@ -1,14 +1,14 @@
-AI Training for Digital Exhibit: Showcasing Inventors
-Overview
-This project leverages AI technologies to create a digital exhibit that highlights the contributions of inventors in various social and cultural domains. The exhibit focuses on topics like Healthcare, Accessibility, Community, LGBTQ+, Social Justice, and other relevant fields. The aim is to celebrate the creativity and innovation of individuals whose inventions have positively impacted society, while also educating and inspiring audiences.
+# 🌟 AI-Powered Digital Exhibit: Showcasing Inventors
 
-Project Purpose
-The goal of this project is to:
+Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change.
 
-Educate users about significant inventors and their groundbreaking work.
+---
 
-Celebrate diversity and inclusivity in the world of innovation.
+## ✨ Project Purpose
 
-Promote social change by raising awareness of how innovation intersects with issues like healthcare, social justice, and accessibility.
+This project was built to:
 
-Create an engaging, interactive experience for users to explore the stories of these inventors.
+- 🎓 Educate users about groundbreaking inventors and their contributions.
+- 🌍 Promote diversity and inclusion in innovation and invention.
+- 💡 Inspire change by showing how creativity intersects with real-world challenges.
+- 🧭 Offer an engaging and interactive way to explore stories that matter.
