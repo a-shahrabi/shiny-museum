@@ -22,3 +22,18 @@ This project was built to:
 - 🔍 **Basic Recommendations**: View related inventors by category (optional AI-driven feature).
 - 🎥 **Multimedia Support**: Images and embedded videos for an immersive experience.
 - ♿ **Accessibility-Friendly**: Designed with accessibility in mind.
+
+
+## 🛠 Tech Stack
+
+| Area         | Technology           |
+|--------------|----------------------|
+| Frontend     | React + Next.js      |
+| Styling      | Tailwind CSS / MUI   |
+| Backend      | Node.js + Express (or Flask) |
+| Database     | MongoDB / JSON       |
+| Deployment   | Vercel (Frontend), Heroku/DigitalOcean (Backend) |
+| Media Hosting| AWS S3 / Google Cloud Storage |
+| AI (optional)| OpenAI GPT / Custom Logic |
+
+---
