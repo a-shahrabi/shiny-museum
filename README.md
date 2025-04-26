@@ -53,5 +53,4 @@ npm install
 # or
 yarn install
 
-<pre> ```env MONGODB_URI=your_mongo_uri OPENAI_API_KEY=your_openai_key MEDIA_HOST_URL=https://your-cdn-link.com ``` </pre>
-
+```bash MONGODB_URI=your_mongo_uri ``` ```bash OPENAI_API_KEY=your_openai_key ``` ```bash MEDIA_HOST_URL=https://your-cdn-link.com ```
