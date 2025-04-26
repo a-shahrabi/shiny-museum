@@ -52,6 +52,7 @@ cd showcasing-inventors
 npm install
 # or
 yarn install
+```
 
 ### 3. Set Up Environment Variables
 ```bash
