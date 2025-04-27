@@ -1,6 +1,6 @@
 # 🌟 AI-Powered Digital Exhibit: Showcasing Inventors
 
-Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change.
+Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change
 
 ---
 
