@@ -1,6 +1,6 @@
 # 🌟 AI-Powered Digital Exhibit: Showcasing Inventors
 
-Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change
+Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change.
 
 ---
 
@@ -59,4 +59,9 @@ yarn install
 MONGODB_URI=your_mongo_uri
 OPENAI_API_KEY=your_openai_key
 MEDIA_HOST_URL=https://your-cdn-link.com
+
+### 4. Set Up Environment Variables
+```bash
+marchinio
+```
 
