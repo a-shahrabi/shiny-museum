@@ -65,3 +65,4 @@ MEDIA_HOST_URL=https://your-cdn-link.com
 ```bash
 marchinio```
 
+Open http://localhost:3000 in your browser to see the app.
