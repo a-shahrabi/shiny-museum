@@ -112,3 +112,9 @@ AI Training Section
 Step-by-step tutorial for using Teachable Machine
 Visual explanation of how image classification works
 Interactive reflection prompts for students
+
+Teacher Resources
+
+Downloadable lesson plans
+Integration guides for classroom use
+Assessment templates for student projects
