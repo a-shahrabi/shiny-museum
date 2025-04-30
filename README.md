@@ -106,3 +106,9 @@ Inventor Explorer
 Searchable and filterable gallery
 Diversity representation metrics
 Timeline visualization of innovations
+
+AI Training Section
+
+Step-by-step tutorial for using Teachable Machine
+Visual explanation of how image classification works
+Interactive reflection prompts for students
