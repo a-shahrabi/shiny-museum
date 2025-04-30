@@ -63,7 +63,7 @@ MEDIA_HOST_URL=https://your-cdn-link.com
 
 ### 4. Set Up Environment Variables
 ```bash
-marchinio```
+```
 
 Open http://localhost:3000 in your browser to see the app.
 📱 AI Training Component
