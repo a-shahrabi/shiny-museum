@@ -65,6 +65,21 @@ MEDIA_HOST_URL=https://your-cdn-link.com
 ```bash
 ```
 
-Open http://localhost:3000 in your browser to see the app.
 📱 AI Training Component
 Our exhibit includes an innovative AI training component using Google's Teachable Machine. Here's how it works:
+For Students:
+
+Choose an Inventor: Select any featured inventor from our exhibit
+Collect Images: Gather 5-10 different images of your chosen inventor
+Train Your Model: Use Teachable Machine to create a computer vision model
+Test & Refine: See if your AI can recognize new images of your inventor
+Reflect: Analyze what visual patterns your AI detected and missed
+
+Educational Benefits:
+
+Hands-on experience with machine learning concepts
+Critical thinking about AI capabilities and limitations
+Understanding pattern recognition and classification
+Reflection on how computers "see" versus how humans perceive
+
+
