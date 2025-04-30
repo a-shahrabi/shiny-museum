@@ -68,5 +68,3 @@ MEDIA_HOST_URL=https://your-cdn-link.com
 Open http://localhost:3000 in your browser to see the app.
 📱 AI Training Component
 Our exhibit includes an innovative AI training component using Google's Teachable Machine. Here's how it works:
-For Students:
-
