@@ -82,4 +82,27 @@ Critical thinking about AI capabilities and limitations
 Understanding pattern recognition and classification
 Reflection on how computers "see" versus how humans perceive
 
+🔄 Project Structure
+showcasing-inventors/
+├── public/              # Static assets
+│   └── inventors/       # Inventor images
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Next.js pages
+│   ├── styles/          # Global styles
+│   ├── data/            # Inventor data (JSON)
+│   └── utils/           # Helper functions
+├── ai-training/         # Teachable Machine integration
+└── server/              # Backend code (if applicable)
+👩‍💻 Key Components
+Home Page
 
+Featured inventors carousel
+Thematic exploration sections
+Quick navigation to AI training component
+
+Inventor Explorer
+
+Searchable and filterable gallery
+Diversity representation metrics
+Timeline visualization of innovations
