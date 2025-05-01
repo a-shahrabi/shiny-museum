@@ -1,21 +1,16 @@
 # 🌟 AI-Powered Digital Exhibit: Showcasing Inventors
-
 Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interactive and educational platform highlighting inventors from diverse backgrounds whose work has positively impacted society. This exhibit celebrates innovation in areas such as **Healthcare**, **Accessibility**, **Social Justice**, and beyond — with a focus on inclusion, representation, and social change.
 
 ---
 
 ## ✨ Project Purpose
-
 This project was built to:
-
 - 🎓 Educate users about groundbreaking inventors and their contributions.
 - 🌍 Promote diversity and inclusion in innovation and invention.
 - 💡 Inspire change by showing how creativity intersects with real-world challenges.
 - 🧭 Offer an engaging and interactive way to explore stories that matter.
 
-
 ## 📦 Features (MVP)
-
 - 🌐 **Interactive Web Interface** built with Next.js and React.
 - 📁 **Inventor Profiles**: Concise stories with images and media.
 - 📂 **Thematic Navigation**: Explore inventors by themes like Healthcare or Social Justice.
@@ -23,9 +18,7 @@ This project was built to:
 - 🎥 **Multimedia Support**: Images and embedded videos for an immersive experience.
 - ♿ **Accessibility-Friendly**: Designed with accessibility in mind.
 
-
 ## 🛠 Tech Stack
-
 | Area         | Technology           |
 |--------------|----------------------|
 | Frontend     | React + Next.js      |
@@ -39,9 +32,7 @@ This project was built to:
 ---
 
 ## 🚀 Getting Started
-
 ### 1. Clone the Repo
-
 ```bash
 git clone https://github.com/yourusername/showcasing-inventors.git
 cd showcasing-inventors
@@ -55,34 +46,42 @@ yarn install
 ```
 
 ### 3. Set Up Environment Variables
-```bash
+Create a `.env.local` file in the root directory with:
+```
 MONGODB_URI=your_mongo_uri
 OPENAI_API_KEY=your_openai_key
 MEDIA_HOST_URL=https://your-cdn-link.com
-
-
-### 4. Set Up Environment Variables
-```bash
 ```
 
-📱 AI Training Component
+### 4. Run the Development Server
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open http://localhost:3000 in your browser to see the app.
+
+## 📱 AI Training Component
+
 Our exhibit includes an innovative AI training component using Google's Teachable Machine. Here's how it works:
-For Students:
 
-Choose an Inventor: Select any featured inventor from our exhibit
-Collect Images: Gather 5-10 different images of your chosen inventor
-Train Your Model: Use Teachable Machine to create a computer vision model
-Test & Refine: See if your AI can recognize new images of your inventor
-Reflect: Analyze what visual patterns your AI detected and missed
+### For Students:
+1. **Choose an Inventor**: Select any featured inventor from our exhibit
+2. **Collect Images**: Gather 5-10 different images of your chosen inventor
+3. **Train Your Model**: Use Teachable Machine to create a computer vision model
+4. **Test & Refine**: See if your AI can recognize new images of your inventor
+5. **Reflect**: Analyze what visual patterns your AI detected and missed
 
-Educational Benefits:
+### Educational Benefits:
+- Hands-on experience with machine learning concepts
+- Critical thinking about AI capabilities and limitations
+- Understanding pattern recognition and classification
+- Reflection on how computers "see" versus how humans perceive
 
-Hands-on experience with machine learning concepts
-Critical thinking about AI capabilities and limitations
-Understanding pattern recognition and classification
-Reflection on how computers "see" versus how humans perceive
+## 🔄 Project Structure
 
-🔄 Project Structure
+```
 showcasing-inventors/
 ├── public/              # Static assets
 │   └── inventors/       # Inventor images
@@ -94,27 +93,30 @@ showcasing-inventors/
 │   └── utils/           # Helper functions
 ├── ai-training/         # Teachable Machine integration
 └── server/              # Backend code (if applicable)
-👩‍💻 Key Components
-Home Page
+```
 
-Featured inventors carousel
-Thematic exploration sections
-Quick navigation to AI training component
+## 👩‍💻 Key Components
 
-Inventor Explorer
+### Home Page
+- Featured inventors carousel
+- Thematic exploration sections
+- Quick navigation to AI training component
 
-Searchable and filterable gallery
-Diversity representation metrics
-Timeline visualization of innovations
+### Inventor Explorer
+- Searchable and filterable gallery
+- Diversity representation metrics
+- Timeline visualization of innovations
 
-AI Training Section
+### AI Training Section
+- Step-by-step tutorial for using Teachable Machine
+- Visual explanation of how image classification works
+- Interactive reflection prompts for students
 
-Step-by-step tutorial for using Teachable Machine
-Visual explanation of how image classification works
-Interactive reflection prompts for students
+### Teacher Resources
+- Downloadable lesson plans
+- Integration guides for classroom use
+- Assessment templates for student projects
 
-Teacher Resources
 
-Downloadable lesson plans
-Integration guides for classroom use
-Assessment templates for student projects
+
+*This project was created as an educational resource to celebrate innovation and inspire the next generation of inventors.*
