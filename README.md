@@ -118,5 +118,3 @@ showcasing-inventors/
 - Assessment templates for student projects
 
 
-
-*This project was created as an educational resource to celebrate innovation and inspire the next generation of inventors.*
