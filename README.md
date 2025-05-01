@@ -133,3 +133,7 @@ We welcome contributions to enhance this educational exhibit! To contribute:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+
+---
+
+*This project was created as an educational resource to celebrate innovation and inspire the next generation of inventors.*
