@@ -132,6 +132,20 @@ We welcome contributions to enhance this educational exhibit! To contribute:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 🔮 Future Enhancements
+
+- **Collaborative Galleries**: Allow classes to create shared exhibits
+- **VR/AR Integration**: Immersive experiences showcasing inventions
+- **Advanced AI Features**: Custom recommendation algorithms
+- **Interactive Timeline**: Explore the evolution of inventions over time
+- **Community Submissions**: User-contributed inventor profiles
+
+## 👏 Acknowledgments
+
+- Google's Teachable Machine for providing an accessible AI learning platform
+- The countless inventors who inspire this project
+- Educators and students who provide feedback and suggestions
+
 
 
 ---
