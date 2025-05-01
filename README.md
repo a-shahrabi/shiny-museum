@@ -127,7 +127,6 @@ We welcome contributions to enhance this educational exhibit! To contribute:
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -145,8 +144,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google's Teachable Machine for providing an accessible AI learning platform
 - The countless inventors who inspire this project
 - Educators and students who provide feedback and suggestions
-
-
 
 ---
 
