@@ -31,7 +31,7 @@ This project was built to:
 
 ---
 
-## 🚀 Getting Started
+## ☄️ Getting Started
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/yourusername/showcasing-inventors.git
