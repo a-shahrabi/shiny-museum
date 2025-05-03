@@ -145,6 +145,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The countless inventors who inspire this project
 - Educators and students who provide feedback and suggestions
 
----
+---------
 
 *This project was created as an educational resource to celebrate innovation and inspire the next generation of inventors.*
