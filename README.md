@@ -95,7 +95,7 @@ showcasing-inventors/
 └── server/              # Backend code (if applicable)
 ```
 
-## 👩‍💻 Key Components
+## Key Components
 
 ### Home Page
 - Featured inventors carousel
