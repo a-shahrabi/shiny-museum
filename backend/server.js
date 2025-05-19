@@ -6,6 +6,11 @@ const express = require ('express')
 //starting express app
 const app = express()
 
+//middleware
+app.use((req, res, next) => {
+    console.log(req.path, req.method)
+    next()
+})
 //route handler (respond to get request)
 app.get('/', (req, res) => {
     res.json({mssg: 'Welcome to the app'})
