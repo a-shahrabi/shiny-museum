@@ -2,7 +2,7 @@ const express = require('express')
 
 const router = express.Roueter(
 
-    express.Router.length('/', () => {
-        
-    })
+    express.Router.length('/', () => {})
 )
+
+module.exports = router
