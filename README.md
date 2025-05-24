@@ -4,7 +4,7 @@ Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interact
 ---
 
 ## ✨ Project Purpose
-This project was built to:
+This pro
 - 🎓 Educate users about groundbreaking inventors and their contributions.
 - 🌍 Promote diversity and inclusion in innovation and invention.
 - 💡 Inspire change by showing how creativity intersects with real-world challenges.
