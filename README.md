@@ -4,7 +4,7 @@ Welcome to the **AI-Powered Digital Exhibit: Showcasing Inventors**, an interact
 ---
 
 ## ✨ Project Purpose
-This project was built to:
+This pro
 - 🎓 Educate users about groundbreaking inventors and their contributions.
 - 🌍 Promote diversity and inclusion in innovation and invention.
 - 💡 Inspire change by showing how creativity intersects with real-world challenges.
@@ -147,4 +147,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---------
 
-*This project was created as an educational resource to celebrate innovation and inspire the next generation of inventors.*
