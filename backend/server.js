@@ -24,3 +24,20 @@ app.get('/', (req, res) => {
     res.json({mssg: 'Welcome to the app'})
 })
 
+// About route
+app.get('/about', (req, res) => {
+    res.json({mssg: 'This is the about page'})
+})
+
+// API route with parameter
+app.get('/api/users/:id', (req, res) => {
+    const userId = req.params.id
+    res.json({mssg: `User ID: ${userId}`})
+})
+
+// POST route example
+app.post('/api/data', (req, res) => {
+    const data = req.body
+    res.json({mssg: 'Data received', data: data})
+})
+
