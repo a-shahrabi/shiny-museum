@@ -80,7 +80,3 @@ app.delete('/api/notes/:id', (req, res) => {
     res.json({mssg: 'Note deleted', id: noteId})
 })
 
-// Listen for request
-app.listen(process.env.PORT, () => {
-    console.log('listening on port', process.env.PORT)
-})
