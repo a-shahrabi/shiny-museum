@@ -32,7 +32,7 @@ This pro
 ---
 
 ## ☄️ Getting Started
-### 1. Clone the Repo
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/showcasing-inventors.git
 cd showcasing-inventors
