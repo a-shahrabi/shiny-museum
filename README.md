@@ -142,7 +142,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👏 Acknowledgments
 
 - Google's Teachable Machine for providing an accessible AI learning platform
-- The countless inventors who inspire this project
 - Educators and students who provide feedback and suggestions
 
 ---------
