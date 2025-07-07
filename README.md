@@ -142,3 +142,7 @@ We welcome contributions to enhance this educational exhibit! To contribute:
 
 ---------
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
